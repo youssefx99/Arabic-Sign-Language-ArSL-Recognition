@@ -78,5 +78,4 @@ This project successfully developed a preprocessing pipeline for Arabic Sign Lan
 
 ---
 
-**Contributors:** University of Nebraska-Lincoln, Computer Vision Team  
-**License:** MIT
+**Contributors:** University of Nebraska-Lincoln, Computer Vision Project Team
